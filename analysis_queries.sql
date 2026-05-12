@@ -27,5 +27,3 @@ GROUP BY p.PlayerName
 ORDER BY MatchesWon DESC;
 
 //Returns a count of the number of matches won by player
-
-//Returns a count of the number of matches won by player
