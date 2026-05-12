@@ -26,6 +26,4 @@ JOIN players p
 GROUP BY p.PlayerName
 ORDER BY MatchesWon DESC;
 
-//Returns a count of the number of matches won by player
-
-//Returns a count of the number of matches won by player
+//Returns a count of the number of matches won by player my using winner player id as the link between the players and matches table for retrieving the player name with the most matches won.
